@@ -7,7 +7,8 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>master branch</title>
+        <title>student branch</title>
+        <title>student branch</title>
     </head>
     <body>
         <?php
