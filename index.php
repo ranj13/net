@@ -8,6 +8,7 @@ and open the template in the editor.
     <head>
         <meta charset="UTF-8">
         <title>login branch</title>
+        <title>login branch</title>
     </head>
     <body>
         <?php
